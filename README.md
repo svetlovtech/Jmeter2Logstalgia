@@ -1,7 +1,7 @@
 # JmeterLog2Logstalgia
 This is This utility converts JMeter logs to Logstalgia custom log format
 
-<img src="https://i.imgur.com/jfg3qzO.gif" width="600"/>
+<img src="https://i.imgur.com/5wHgoyD.gif" width="600"/>
 
 #### Usage
 usage: jmeter2logstalgia-19.08.jar -i inputFileName [-h] -i <arg> [-o <arg>]
